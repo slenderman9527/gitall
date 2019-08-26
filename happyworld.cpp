@@ -5,5 +5,6 @@ int main(void)
 	printf("the world is good");
 	printf("do you like me?");
 	printf("yes");
+	printf("happy");
 	return 0;
 }
